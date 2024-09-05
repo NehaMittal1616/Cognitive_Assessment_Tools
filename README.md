@@ -1,4 +1,5 @@
-Cognitive Assessment Tools
+Cognitive Assessment Tools :-
+
 This repository contains a collection of web-based tools for assessing and detecting cognitive disorders such as dementia, Alzheimer's disease, and autism. These tools were developed using HTML, CSS, and JavaScript to create interactive and accessible cognitive tests that can be performed remotely.
 
 Tools Included
@@ -41,7 +42,7 @@ These tools are aimed at providing an accessible platform for detecting cognitiv
 
 How to Use
 1) Clone this repository to your local machine:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/NehaMittal1616/Cognitive_Assessment_Tools
 2) Open any of the HTML files in a browser to start using the tools.
 
 Each tool is self-contained and can be run independently from the others.
